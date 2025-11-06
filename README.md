@@ -1,4 +1,4 @@
-# Sprint 11: Visualización de Datos
+# Visualización de Datos
 
 Este proyecto se centra en la conexión a una base de datos MySQL, la carga de datos en DataFrames de Pandas y la creación de una serie de visualizaciones para analizar patrones en datos de transacciones, productos y clientes.
 
